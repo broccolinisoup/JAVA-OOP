@@ -24,13 +24,40 @@ package com.broccolinisoup.beginning;
  * 
  * */
 
-public class SalcanoBicycle implements IBicycle{
+public class BicycleVol2 implements IBicycle{
 
-	int cadence = 0;
-	int gear = 1;
-	int speed = 0;
+	private int cadence = 0;
+	private int speed = 0;
+	private int gear = 1;
 	
-	
+	/* Setters and Getters */
+	public int getCadence() {
+		return cadence;
+	}
+
+	public void setCadence(int cadence) {
+		this.cadence = cadence;
+	}
+
+	public int getSpeed() {
+		return speed;
+	}
+
+	public void setSpeed(int speed) {
+		this.speed = speed;
+	}
+
+	public int getGear() {
+		return gear;
+	}
+
+	public void setGear(int gear) {
+		this.gear = gear;
+	}
+
+	// Compare to Bicycle Class all these below methods came here with the interface implementation.
+	// You can override it (Specify)
+
 	@Override
 	public void changeCadence(int newValue) {
 		this.cadence = newValue;
@@ -55,10 +82,17 @@ public class SalcanoBicycle implements IBicycle{
 		
 	}
 	
+	// You can override the default method, if not you call the default method in the interface.
+	@Override
+	public void didItWork(){
+		System.out.println("I am coming from BicycleVol2 class not from the interface");
+	}
+	
 	void printStates() {
         System.out.println("cadence:" +
             cadence + " speed:" + 
             speed + " gear:" + gear);
    }
 
+	
 }

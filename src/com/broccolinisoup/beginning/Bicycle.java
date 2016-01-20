@@ -47,7 +47,8 @@ public class Bicycle {
 		this.gear = gear;
 	}
 
-	
+	// You can not see these methods (changeGear, speedUp and applyBrakes) in Vol2.
+	// We will do all this stuff with interface
 	void changeGear(int newValue) {
 		speed = newValue;
 
