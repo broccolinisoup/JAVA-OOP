@@ -1,4 +1,4 @@
-package com.broccolinisoup.beginning;
+package com.broccolinisoup.oop.interfaceExamples;
 
 /* A Class that implements the Bicycle Interface */
 /*

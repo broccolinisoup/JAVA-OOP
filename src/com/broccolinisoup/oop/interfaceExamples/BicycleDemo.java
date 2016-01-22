@@ -1,4 +1,4 @@
-package com.broccolinisoup.beginning;
+package com.broccolinisoup.oop.interfaceExamples;
 
 public class BicycleDemo {
 	public static void main(String[] args) {
