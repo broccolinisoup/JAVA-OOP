@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.inheritanceExamples;
+package com.broccolinisoup.oop.inheritanceExamples.basic;
 
 public class BicycleDemo {
 	

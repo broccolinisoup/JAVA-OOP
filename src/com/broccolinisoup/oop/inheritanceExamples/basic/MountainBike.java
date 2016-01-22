@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.inheritanceExamples;
+package com.broccolinisoup.oop.inheritanceExamples.basic;
 
 /*
  * Excepting Object, which has no superclass, every class has one and 
