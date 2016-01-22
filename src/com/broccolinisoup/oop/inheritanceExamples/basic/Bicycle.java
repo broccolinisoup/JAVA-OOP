@@ -1,6 +1,7 @@
 package com.broccolinisoup.oop.inheritanceExamples.basic;
 
 // Parent Class
+// Basic example of inheritance
 public class Bicycle {
 	
 	// the Bicycle class has three fields
