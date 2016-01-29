@@ -10,7 +10,9 @@ package com.broccolinisoup.oop.interfaceExamples;
 
 public class Bicycle {
 
-	// If we do not write any access modifiers to a variable, it takes public classes type.
+	/* If we do not write any access modifiers to a variable, 
+	 * it takes no-modifier type which can be accessed from the class and the package that the variable is defined in.
+	* */
 	
 	// If we do not want our variables to be changed by others, we should make them private.
 	private int cadence = 0;
