@@ -3,6 +3,7 @@ package com.broccolinisoup.oop.polymorphism;
 public class Dress extends Product {
 	public String fabricType;
 	public int size;
+	public String trialConstant = "I am a trial in Dress";
 	
 	public Dress(String productName, double productPrice, String fabricType,int size){
 		super(productName, productPrice);

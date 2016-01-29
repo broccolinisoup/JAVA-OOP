@@ -4,6 +4,13 @@ public class Product {
 	public String productName;
 	public double productPrice;
 	
+	/*
+	 * Variables are not polymorphic in Java; they do not override one another.
+	 * When you make a variable of the same name in a subclass, that's called hiding. 
+	 * You can see the example in Demo class
+	 * */
+	public String trialConstant = "I am a trial in Product";
+	
 	public Product(){}
 	public Product(String productName, double productPrice){
 		this.productName = productName;
