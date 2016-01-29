@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.interfaceExamples;
+package com.broccolinisoup.oop.InterfaceAndEncapsulation;
 
 public class BicycleDemo {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.inheritanceExamples.interfaceMethods;
+package com.broccolinisoup.oop.Inheritance.interfaceMethods;
 
 /*Default methods and abstract methods in interfaces are inherited 
  * like instance methods. However, when the supertypes of a class 

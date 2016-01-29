@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.interfaceExamples;
+package com.broccolinisoup.oop.InterfaceAndEncapsulation;
 
 /* An example of "INTERFACE" */
 

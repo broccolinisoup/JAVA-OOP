@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.polymorphism;
+package com.broccolinisoup.oop.Polymorphism;
 
 public class Dress extends Product {
 	public String fabricType;

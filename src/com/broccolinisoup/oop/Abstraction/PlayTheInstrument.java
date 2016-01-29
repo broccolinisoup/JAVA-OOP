@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.abstractClassExamples;
+package com.broccolinisoup.oop.Abstraction;
 
 public class PlayTheInstrument {
 

@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.inheritanceExamples.interfaceMethods;
+package com.broccolinisoup.oop.Inheritance.interfaceMethods;
 
 public interface IFlyer {
     default public String identifyMyself() {

@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.inheritanceExamples.interfaceMethods;
+package com.broccolinisoup.oop.Inheritance.interfaceMethods;
 
 public class Horse {
     public String identifyMyself() {

@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.abstractClassExamples;
+package com.broccolinisoup.oop.Abstraction;
 
 // The expalanation will come later
 //http://www.programmerinterview.com/index.php/java-questions/interface-vs-abstract-class/

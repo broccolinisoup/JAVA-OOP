@@ -1,4 +1,4 @@
-package com.broccolinisoup.oop.interfaceExamples;
+package com.broccolinisoup.oop.InterfaceAndEncapsulation;
 
 /*
  * Encapsulation means that variables and methods of 
